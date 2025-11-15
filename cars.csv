@@ -1,3 +1,4 @@
-id,model,available
-128,Renault Megane,no
-134,Mazda CX-5,no
+id,make,model,year,color,available
+234,Toyota,Camry,2020,blue,yes
+110,BMW,X5,2019,white,no
+541,Ford,Focus,2022,gray,yes
